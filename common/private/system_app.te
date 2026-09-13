@@ -32,3 +32,5 @@ allow system_app system_userdir_file:file r_file_perms;
 
 # PowerInsight
 allow system_app power_insight_service:service_manager find;
+
+allow system_app optimization_service:service_manager find;

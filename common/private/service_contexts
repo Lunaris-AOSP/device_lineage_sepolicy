@@ -29,3 +29,6 @@ game_space                                u:object_r:game_space_service:s0
 
 # PowerInsight
 power_insight                             u:object_r:power_insight_service:s0
+
+# Optimizer 
+optimization    u:object_r:optimization_service:s0
